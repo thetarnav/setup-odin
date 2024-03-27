@@ -21,7 +21,7 @@ inputs:
     default: '14'
     required: true
   build-type:
-    description: 'Type of Odin build, supports "debug", "release" or "release_native"'
+    description: 'Type of Odin build, supports "debug" or "release"'
     default: 'debug'
     required: true
   repository:
